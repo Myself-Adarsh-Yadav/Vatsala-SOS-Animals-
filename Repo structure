@@ -1,0 +1,13 @@
+ 
+sos-animals/
+│-- public/          # Static assets (favicon, index.html)
+│-- src/
+│   │-- components/  # Reusable UI components
+│   │-- pages/       # Main pages (Home, Report, Dashboard)
+│   │-- api/         # API integration (NGO notifications, DB)
+│   │-- styles/      # Global styles
+│   │-- App.js       # Main app component
+│   │-- index.js     # Entry point
+│-- .gitignore       # Ignore node_modules, env files
+│-- package.json     # Project dependencies
+│-- README.md        # Project documentation
